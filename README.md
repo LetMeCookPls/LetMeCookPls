@@ -1,5 +1,5 @@
-<div align="left">
-  <img height="267" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRvMTZ2ZnBmcWk3M2UxNWdqZm81b2c2cHFudHV2dGRnNjFyOG1nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfGDRhEDUWBa6HhkGs/giphy.gif"  />
+<div align="center">
+  <img height="275" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRvMTZ2ZnBmcWk3M2UxNWdqZm81b2c2cHFudHV2dGRnNjFyOG1nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rfGDRhEDUWBa6HhkGs/giphy.gif"  />
 </div>
 
 ###
@@ -8,12 +8,16 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/AlwySavageLT/AlwySavageLT/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwySavageLT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlwySavageLT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlwySavageLT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AlwySavageLT&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -42,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   <img width="12" />
@@ -106,7 +108,7 @@
   <a href="https://www.instagram.com/alwys_savage?igsh=eHk0amFscjRvaHl0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/KaushikAc1?t=K84itBsWGpfNOdEWGpn4VQ&s=09" target="_blank">
+  <a href="https://discord.com/invite/DWAuR3DV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="35" alt="discord logo"  />
   </a>
 </div>
