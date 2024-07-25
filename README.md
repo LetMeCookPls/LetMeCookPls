@@ -22,11 +22,9 @@
   <img src="https://streak-stats.demolab.com?user=AlwySavageLT&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.gifer.com/n8J.gif"  />
-
-###
+<div align="right">
+  <img height="150" src="https://i.gifer.com/n8J.gif" alt="right aligned gif" />
+</div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -95,8 +93,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaushik-acharya-8611a5228/" target="_blank">
