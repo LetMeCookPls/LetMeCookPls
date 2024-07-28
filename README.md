@@ -72,7 +72,7 @@
 &nbsp;
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaushik-acharya-8611a5228/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaushik--acharya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/KaushikAc1?t=K84itBsWGpfNOdEWGpn4VQ&s=09" target="_blank">
