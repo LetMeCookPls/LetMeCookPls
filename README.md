@@ -4,8 +4,8 @@
 
 ###
 
-<h4 align="center">💫 About Me:<br><br>Hi all, I'm Kaushik!<br><br>👨‍💻 A passionate CSE graduate on a quest to master the digital realm.<br>📱 Obsessed with app development and cutting-edge web technologies.<br>🚀 Forever curious and always creating.<br><br>🔭 I’m currently working on<br>➖React Portfolio Website: Transforming Figma designs into reality 💡<br><br>👯 I’m looking to collaborate on<br>➖Open-source projects in web and mobile development<br>➖Innovative app ideas that solve real-world problems<br><br>🌱 I’m currently learning<br>➖Flutter<br>➖React Native<br>➖Advanced CSS<br><br>⚡ Fun fact<br>➖I love playing League of Legends: Wild Rift</h4>
-
+<h4 align="center">💫 About Me:<br><br>Hi all, I'm Kaushik!<br><br>👨‍💻 A passionate CSE graduate on a quest to master the digital realm.<br>📱 Obsessed with app development and cutting-edge web technologies.<br>🚀 Forever curious and always creating.<br><br>🔭 I’m currently working on<br>➖React Portfolio Website: Transforming Figma designs into reality 💡<br><br>👯 I’m looking to collaborate on<br>➖Open-source projects in web and mobile development<br>➖Innovative app ideas that solve real-world problems<br><br>🌱 I’m currently learning<br>➖Flutter<br>➖React Native<br>➖Advanced CSS<br><br>⚡
+  
 ###
 
 <br clear="both">
@@ -18,9 +18,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlwySavageLT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlwySavageLT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlwySavageLT&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LetMeCookPls&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LetMeCookPls&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LetMeCookPls&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 &nbsp;
 <h4 align="center">🥱 Skills Explored:</h4>
